@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using Qlik.Engine;
 
 
-namespace QlikSenseEngineDemo
+namespace QlikDotNetSDKDemo
 {
     public partial class Form1 : Form
     {

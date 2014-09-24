@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("QlikSenseEngineDemo")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("QlikDotNetSDKDemo")]
+[assembly: AssemblyDescription("A simple demo application for the Qlik Sense .NET SDK")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("QlikSenseEngineDemo")]
+[assembly: AssemblyProduct("QlikDotNetSDKDemo")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

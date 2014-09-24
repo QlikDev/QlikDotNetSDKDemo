@@ -1,4 +1,4 @@
-﻿namespace QlikSenseEngineDemo
+﻿namespace QlikDotNetSDKDemo
 {
     partial class Form1
     {
